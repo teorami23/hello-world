@@ -2,7 +2,9 @@ import random
 import matplotlib.pyplot as plt
 
 class Store:
-
+change1
+change2
+change3
     def __init__(self, buyersNumber):
         self._buyersNumber = buyersNumber
         self._prices = {}
